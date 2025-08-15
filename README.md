@@ -1,2 +1,0 @@
-# softwareproject
-software developer description
